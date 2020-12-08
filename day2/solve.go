@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-//Solve day1
+//Solve day2
 func Solve() (int, error) {
 	inputFile, err := os.Open("day2/input")
 	if err != nil {
